@@ -2,7 +2,6 @@
 
 ![image](/images/community-science-museum_homepage.jpg)
 
-A webshop where you can buy jackets for all kinds of weather and conditions.
 
 - [Live demo on Netlify](https://cs-museum.christerolsen.com)
 

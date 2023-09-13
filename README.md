@@ -4,7 +4,7 @@
 
 A webshop where you can buy jackets for all kinds of weather and conditions.
 
-- [Live demo on Netlify](https://admiring-cray-a4d662.netlify.app/)
+- [Live demo on Netlify](https://cs-museum.christerolsen.com)
 
 ## Description
 
